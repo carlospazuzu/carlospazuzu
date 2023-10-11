@@ -1,7 +1,7 @@
 ## 「俺は絶対、みんなと世界に行くんだ！」
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F735804f4b3647ff68ceb73710f9b3c05%2Ftenor.gif%3Fitemid%3D14094442&f=1&nofb=1&ipt=27f97e381b7113e4d9c1d85ae8445c1ba1b89744cab3636b3c7905cbebbd7d68&ipo=images" />
+<img align="right" src="https://i.imgur.com/akxTSjc.png" width="400" />
 <p>
-  Hello! My name is Carlos but you can call me Pazuzu. I'm a web developer with passion for games, animes and overall geek culture. I am currently studying Ruby on Rails framework and contributing to opensource to improve my coding skills and help community. I also have lots of interests in game development and got lots of game related projects in my background, both in coding and game audio. Japanese language learner. よろしくお願いいたします！
+  Hello! My name is Carlos but you can call me Pazuzu. I'm a web developer with passion for games, animes and overall geek culture. I am currently studying Ruby on Rails framework and contributing to opensource to improve my coding skills and help community. I also have lots of interests in game development and got lots of game related projects in my background, both in coding and game audio. <br/> よろしくお願いいたします！
   
 </p>
 
